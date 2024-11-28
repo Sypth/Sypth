@@ -42,9 +42,10 @@ I am a 4th year college student pursuing a Bachelor of Science in Computer Scien
 
 ## Skills
 
-- **Backend Development:** Laravel
-- **FullStack Development:** Vue, Inertia, Tailwind, Laravel
-- **Database Administration:** [Relevant Skills]
+- **Backend Development:** Laravel, Django
+- **Frontend Development:** React, Vue
+- **FullStack Development:** VITL, MERN
+- **Database Administration:** MySQL, MongoDB, Postgres
 
 ## Achievements
 
@@ -57,6 +58,11 @@ I am a 4th year college student pursuing a Bachelor of Science in Computer Scien
 - Handling and securing data
 - Improving design skills
 
+## Future Interest
+- Mobile Development
+- Ethical Hacking and Cyber Security
+- Machine Learning
+
 ## Contact
 
 - **Personal Email:** [alexander.camaddo@gmail.com](mailto:alexander.camaddo@gmail.com)
@@ -66,7 +72,7 @@ I am a 4th year college student pursuing a Bachelor of Science in Computer Scien
 
 ## Goals
 
-My goal after graduation is to become a developer at a big company, such as CloudStaff.
+My goal after graduation is to become a developer at a big companies where I can upscale my tech skills.
 
 ---
 
