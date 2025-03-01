@@ -10,14 +10,13 @@ I'm a passionate 4th-year Computer Science student at Systems Plus College Found
 ## 📚 Education  
 **Bachelor of Science in Computer Science**  
 Systems Plus College Foundation  
-*Expected Graduation: 2024*
+*Expected Graduation: June 2025*
 
 ## 💼 Development Experience
 
 ### 🏫 ICT Development Unit Projects
 **Full-Stack Developer** (Laravel • React • PostgreSQL • Tailwind)  
-- Lead developer for school-partnered projects handling 10k+ daily users  
-- Built 6 production applications from concept to deployment  
+- Lead developer for school-partnered projects
 - Pioneered blockchain integration in student projects
 
 **Key Projects:**  
@@ -34,7 +33,7 @@ Systems Plus College Foundation
 
 **Easemind Mental Health Platform**  
 💬 Safe community space with real-time chat  
-🏆 2nd Place National Competition  
+🏆 4th Place Regional Competition 
 *React • Juno • Laravel*  
 [Live Demo](https://llvrf-giaaa-aaaal-amqwa-cai.icp0.io) | [GitHub](https://github.com/spcf-easemind/easemind)
 
@@ -60,7 +59,7 @@ Blockchain (Motoko/Juno) | Python Automation | Database Security
 
 ## 🏅 Notable Achievements
 - Consistent Dean's Lister (2020-2024)  
-- 2x National Competition Finalist  
+- National Competition Finalist  
 - Smart Innogen Top 50 Innovator  
 
 ## 🌱 Future Directions
