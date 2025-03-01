@@ -57,6 +57,12 @@ I am a 4th year college student pursuing a Bachelor of Science in Computer Scien
 - **Github Repository:** [Organization Repo](https://github.com/spcf-easemind/easemind)
 - **Link:** [Easemind](https://llvrf-giaaa-aaaal-amqwa-cai.icp0.io/internet-identity)
 
+#### Deepfake Detector
+- **Role:** Fullstack Developer
+- **Description:** A web app for identifying deep fake videos by generating statistics and confident percentage of trained model algorithm.
+- **Technologies:** Python, Django
+- **Github Repository:** [Organization Repo](https://github.com/orgs/spcf-deepfake-detector/repositories)
+
 #### Systems Plus College Foundation Website (Revamp Version)
 - **Role:** Frontend Developer
 - **Description:** A school website using modern programming tools for optimized and better user experience.
