@@ -60,12 +60,12 @@ Blockchain (Motoko/Juno) | Python Automation | Database Security
 ## 🏅 Notable Achievements
 - Consistent Dean's Lister (2020-2024)  
 - National Competition Finalist  
-- Smart Innogen Top 50 Innovator  
+- Smart Innogen Top 25 Innovator  
 
 ## 🌱 Future Directions
-- Mobile app development with React Native  
+- Mobile app development
 - Cybersecurity certifications (CEH, CompTIA Security+)  
-- Machine learning applications in web security  
+- Machine Learning and Algorithms
 
 ## 📬 Let's Connect!
 💌 [alexander.camaddo@gmail.com](mailto:alexander.camaddo@gmail.com)  
