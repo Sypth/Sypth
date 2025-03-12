@@ -42,6 +42,10 @@ Systems Plus College Foundation
 [Live Demo](https://llvrf-giaaa-aaaal-amqwa-cai.icp0.io) | [GitHub](https://github.com/spcf-easemind/easemind)
 
 ### 🔨 Technical Showcase
+**Hotel Reservation Booking Management System (HRBMS)**  
+🏨 A modernized hotel booking and reservation system with customizable features to simplify hotel bookings and reservations. Features separate UIs for guests and admins, supporting online bookings and transactions.  
+*Laravel • MySQL* 
+
 **Deepfake Detector**  
 🤖 AI-powered media verification tool  
 *Python • Django • Computer Vision*
