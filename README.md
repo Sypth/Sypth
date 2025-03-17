@@ -20,8 +20,8 @@ Systems Plus College Foundation
 
 ### 🏫 ICT Development Unit Projects
 **Full-Stack Developer** (Laravel • React • PostgreSQL • Tailwind)  
-- Lead developer for school-partnered projects
-- Pioneered blockchain integration in student projects
+- Senior student developer for school-partnered projects
+- Experienced in blockchain integrated projects
 
 **Key Projects:**  
 | **School Management System** | **Healthcare System for LGU** | **Blockchain Attendance App** |
