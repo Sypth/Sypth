@@ -97,8 +97,8 @@ Systems Plus College Foundation
 
 ## 🏅 Notable Achievements
 - Consistent Dean's Lister (2020-2024)  
-- National Competition Finalist  
-- Smart Innogen Top 25 Innovator  
+- Internet Computer National Competition Finalist  
+- Smart Innogen Giga 25 Innovator  
 
 ## 🌱 Future Directions
 - Mobile app development
@@ -109,6 +109,6 @@ Systems Plus College Foundation
 💌 [alexander.camaddo@gmail.com](mailto:alexander.camaddo@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/alexander-john-camaddo)  
 🐙 [GitHub](https://github.com/Sypth)  
-🌍 [Portfolio](https://alex-camaddo.pages.dev)  
+🌍 [Portfolio](https://alexander-camaddo.pages.dev)  
 
 *Currently seeking 2024 graduate opportunities in full-stack development or blockchain engineering!*
