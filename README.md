@@ -109,6 +109,6 @@ Systems Plus College Foundation
 💌 [alexander.camaddo@gmail.com](mailto:alexander.camaddo@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/alexander-john-camaddo-033x/)  
 🐙 [GitHub](https://github.com/Sypth)  
-🌍 [Portfolio](https://alexander-camaddo.pages.dev)  
+🌍 [Portfolio](https://alex-camaddo.pages.dev)  
 
 *Currently seeking 2024 graduate opportunities in full-stack development or blockchain engineering!*
